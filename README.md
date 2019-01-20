@@ -14,6 +14,10 @@ There are 3 main questions I hope to answer with this data set.
 - Is there a general upward trend of both new Airbnb listings and total Airbnb visitors to Seattle?
 - How to be successful in Airbnb business?
 
+## Data
+
+The source is from https://www.kaggle.com/airbnb/seattle
+
 ## Libraries
 
 3 python libraries are required to run the analysis
@@ -29,10 +33,6 @@ pip install numpy
 pip install pandas
 pip install matplotlib
 ```
-## Data
-
-The source is from https://www.kaggle.com/airbnb/seattle
-
 ## File
 
 A Jupyter notebook "Seattle Airbnb Analysis.ipynb"
@@ -46,3 +46,8 @@ To run the analysis, clone the repository and open the .pynb Jupyter Notebook fi
 - Jul-2016 was the busiest period in Seattle and the price for Airbnb was the highest.
 - There was an upward trend on both Airbnb listings and visitors
 - To be more successful, superhost status is required. A higher rating should be achieved by being more responsive.
+
+## References
+
+- https://www.kaggle.com/airbnb/seattle
+- http://insideairbnb.com/about.html
