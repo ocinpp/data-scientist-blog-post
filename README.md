@@ -35,7 +35,7 @@ pip install matplotlib
 ```
 ## File
 
-A Jupyter notebook "Seattle Airbnb Analysis.ipynb"
+Jupyter notebook "Seattle Airbnb Analysis.ipynb"
 
 ## Usage
 
