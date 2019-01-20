@@ -39,7 +39,9 @@ A Jupyter notebook "Seattle Airbnb Analysis.ipynb"
 
 ## Usage
 
-To run the analysis, clone the repository and open the .pynb Jupyter Notebook file and execute the cells.
+- To run the analysis, clone the repository.
+- 3 csv files have to be downloaded from https://www.kaggle.com/airbnb/seattle and put in the directory "seattle" 
+- Open the .pynb Jupyter Notebook file and execute the cells.
 
 ## Result
 
