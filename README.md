@@ -47,6 +47,10 @@ To run the analysis, clone the repository and open the .pynb Jupyter Notebook fi
 - There was an upward trend on both Airbnb listings and visitors
 - To be more successful, superhost status is required. A higher rating should be achieved by being more responsive.
 
+## Improvement
+
+Use plot.ly, seaborn to create visualizations
+
 ## References
 
 - https://www.kaggle.com/airbnb/seattle
