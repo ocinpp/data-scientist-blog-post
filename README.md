@@ -1,4 +1,4 @@
-# Seattle Airbnb data Analysis
+# Seattle Airbnb Data Analysis
 
 ## Introduction
 
