@@ -54,7 +54,7 @@ Jupyter notebook "Seattle Airbnb Analysis.ipynb"
 
 ## Improvement
 
-- Use plot.ly, seaborn to create visualizations
+- Use plot.ly, seaborn to create attractive visualizations
 - Add more analysis
 
 ## References
