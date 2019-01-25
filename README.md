@@ -2,7 +2,7 @@
 
 ## Introduction
 
-What makes me to do this analysis on Seattle Airbnb? People love travelling and I am not exception. in the past, people mostly lived in hotels or hostels unless you have friends or relatives in that place. 
+What makes me to perform this analysis on Seattle Airbnb? People love travelling and I am not exception. in the past, people mostly lived in hotels or hostels unless you have friends or relatives in that place. 
 
 Now, we have Airbnb which provides an alternative way for our accommodation. Not only can we be the traveller, we can also be the host to provide accommodation to others. 
 
