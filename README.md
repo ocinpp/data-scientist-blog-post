@@ -4,7 +4,7 @@
 
 What makes me to perform this analysis on Seattle Airbnb? People love travelling and I am not exception. in the past, people mostly lived in hotels or hostels unless you have friends or relatives in that place. 
 
-Now, we have Airbnb which provides an alternative way for our accommodation. Not only can we be the traveller, we can also be the host to provide accommodation to others. 
+Now, we have Airbnb which provides an alternative way for our accommodation. Not only can we be traveller, we can also be the host to provide accommodation to others. 
 
 What I want to find out in this analysis is how Airbnb is growing in a city (Seattle) and if more and more people are using the platform to find accommodations. How to become successful in Airbnb business is another thing I want to find out.
 
