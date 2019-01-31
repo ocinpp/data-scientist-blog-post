@@ -39,7 +39,7 @@ Jupyter notebook "Seattle Airbnb Analysis.ipynb"
 
 ## Usage
 
-- To run the analysis, clone the repository.
+- To run the analysis, clone the repository
 - 3 csv files have to be downloaded from https://www.kaggle.com/airbnb/seattle and put in the directory "seattle" 
   - calendar.csv
   - listings.csv
